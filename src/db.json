@@ -1,0 +1,51 @@
+{
+    "lucesList": [
+      {
+        "name": "b01",
+        "text": "Luz cuarto uno",
+        "state": false,
+        "chip": "3952508499"
+      }
+    ],
+    "actuadoresBoolList": [
+        {
+          "name": "l01", 
+          "text": "Luz uno",
+          "chip": "3952508499"
+        },
+        {
+          "name": "l02", 
+          "text": "Luz uno2",
+          "chip": "1111111111"
+        }
+    ],
+    "climaList": [
+      {
+        "name": "sa01",
+        "text": "Clima cuarto uno",
+        "temp": "24",
+        "hume": "40"
+      }
+    ],
+    "movList": [
+      {
+        "name": "mov01",
+        "text": "Mov cuarto uno",
+        "state": false,
+        "chip": "3952508499"
+      },
+      {
+        "name": "mov02",
+        "text": "Mov cuarto dos",
+        "state": false,
+        "chip": "3952508498"
+      }
+    ],
+    "ajustesList": [
+      {
+        "name": "lightButtonEnable",
+        "state": false,
+        "text": "Desactivar botones físicos"
+      }
+    ]
+  }
